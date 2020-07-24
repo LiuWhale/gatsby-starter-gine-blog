@@ -18,7 +18,7 @@
         "gatsby-theme-gine-blog": "^0.6.2",
         "react": "^16.9.0",
         "react-dom": "^16.9.0",
-        "node":"^10.21.0"
+        "node":"^14.6.0"
     },
     "devDependencies": {
         "netlify-lambda": "^1.6.3"
