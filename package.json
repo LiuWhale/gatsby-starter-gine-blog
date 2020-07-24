@@ -22,5 +22,6 @@
     },
     "devDependencies": {
         "netlify-lambda": "^1.6.3"
-    }
+    },
+    "type": "module"
 }
