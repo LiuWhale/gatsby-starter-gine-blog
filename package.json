@@ -17,7 +17,8 @@
         "gatsby-source-notion-database": "^0.6.9",
         "gatsby-theme-gine-blog": "^0.6.2",
         "react": "^16.9.0",
-        "react-dom": "^16.9.0"
+        "react-dom": "^16.9.0",
+        "node":"^12.18.3"
     },
     "devDependencies": {
         "netlify-lambda": "^1.6.3"
